@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+    <!-- Add any additional meta tags, stylesheets, or scripts here -->
+</head>
+<body>
+
+    <header>
+        <!-- Your website header content -->
+    </header>
+
+    <main>
+        <section>
+            <h1>Privacy Policy</h1>
+
+            <p>This is the privacy policy for https://AliBaaddiAlk.github.io/privacy-policy.html.</p>
+
+            <h2>Information We Collect</h2>
+            <p>Explain the types of information you collect from users (e.g., email, cookies, IP address, etc.).</p>
+
+            <h2>How We Use Information</h2>
+            <p>Describe how the collected information is used and the purposes for which it's utilized.</p>
+
+            <h2>Third-Party Disclosure</h2>
+            <p>Indicate if and how you share information with third parties.</p>
+
+            <!-- Add additional sections and details as needed -->
+
+        </section>
+    </main>
+
+    <footer>
+        <!-- Your website footer content -->
+        <p> &copy; 2023 AliBaaddiAlk.github.io. All rights reserved. </p>
+    </footer>
+
+</body>
+</html>
