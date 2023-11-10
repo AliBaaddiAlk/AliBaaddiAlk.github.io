@@ -1,5 +1,4 @@
 # AliBaaddiAlk.github.io
-# YouTok
 YouTok is a program which intends to completly automate the process of stealing content from Tiktok, creating compilations, and uploading it them to diffent social media platforms (this isn't supported ATM).
 
 The intent is to minimize the human interaction when creating compilations. That's all.
